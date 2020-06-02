@@ -5,9 +5,9 @@ class Autoboxing
 { 
     public static void main(String[] args) 
     { 
-        char ch = 'a'; 
+        char ch = 'a';
   
-        // Autoboxing- primitive to Character object conversion 
+        // Autoboxing- primitive to Character object conversion
         Character a = ch; 
   
         ArrayList<Integer> arrayList = new ArrayList<Integer>(); 
